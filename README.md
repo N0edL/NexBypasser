@@ -2,7 +2,7 @@
 
 ![Logo](https://imgur.com/sQuCOpx.png) ![Logo](https://imgur.com/sQuCOpx.png) ![Logo](https://imgur.com/sQuCOpx.png) ![Logo](https://imgur.com/sQuCOpx.png) ![Logo](https://imgur.com/sQuCOpx.png) ![Logo](https://imgur.com/sQuCOpx.png)
 
-NexBypasser is a powerful tool designed to enhance your experience with [ofprem](https://nexwebsite.com) by providing advanced features and optimizations.
+NexBypasser is a powerful tool designed to enhance your experience with [ofprem](https://ofprem.com/) by providing advanced features and optimizations.
 
 ## Features
 
@@ -26,7 +26,7 @@ git install https://github.com/N0edL/NexBypasser.git
 ## Usage
 Get started with using NexBypasser:
 
-1. Copy the [ofprem](https://nexwebsite.com) link.
+1. Copy the [ofprem](https://ofprem.com/) link.
 2. Open <strong>Nex Bypasser</strong>.
 3. Paste the link in by pressing the paste button.
 4. Press on Find <strong>Mega.nz / Pastelink</strong> Link.

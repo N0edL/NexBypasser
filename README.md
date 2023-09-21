@@ -32,4 +32,6 @@ Get started with using NexBypasser:
 4. Press on Find <strong>Mega.nz / Pastelink</strong> Link.
 5. Copy by pressing the <strong>Copy</strong> button the code and go to your webbrowser and enjoy.
 
-![ezgif com-video-to-gif (3)](https://github.com/N0edL/NexBypasser/assets/88205753/2333b003-3367-4f0e-86b7-06b496008a1c)
+
+![ezgif com-video-to-gif (4)](https://github.com/N0edL/NexBypasser/assets/88205753/74280899-954b-405f-8705-e15aa963efb7)
+

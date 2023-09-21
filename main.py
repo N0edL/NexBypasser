@@ -66,7 +66,7 @@ def copy_to_clipboard():
 
 # window
 window = ctk.CTk()
-window.title("Nex Bypasser")
+window.title("Nex Bypasser 1.2.1")
 window.geometry("420x250")
 window.resizable(False, False)
 window.bind("<Return>", lambda x: find_button.invoke())
@@ -78,7 +78,7 @@ ctk.set_default_color_theme("dark-blue")
 
 # widgets
 label = ctk.CTkLabel(window,
-                    text="Nex Bypasser",
+                    text="Nex Bypasser 1.2.1",
                     font=("Arial", 20),
                     fg_color="#6039fa",
                     text_color="white",
